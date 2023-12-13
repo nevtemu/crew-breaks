@@ -18,7 +18,7 @@ Pay attention how in certain cases breaks have **gaps** between them. This happe
 
 I'm really proud cause I created my **own SVGs** for the project including app icon. I depicted location of crew rest compartment on aircraft model and diagram of the breaks pattern for user clarity. Here are examples:
 
-![Icon](readme-assets/app-icon.png)
+![Icon](readme-assets/app-icon.jpeg)
 ![Main menu](readme-assets/SVG-example.png)
 
 And here is the quick look on app's functionality:
